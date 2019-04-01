@@ -1,0 +1,17 @@
+C:\Users\Bilal\Documents\Visual Studio 2017\Projects\WebPlatform\WebPlatform\bin\Debug\ReverseMap\resources.pri
+C:\Users\Bilal\Documents\Visual Studio 2017\Projects\WebPlatform\WebPlatform\bin\Debug\AppxManifest.xml
+C:\Users\Bilal\Documents\Visual Studio 2017\Projects\WebPlatform\WebPlatform\bin\Debug\WebPlatform.build.appxrecipe
+C:\Users\Bilal\Documents\Visual Studio 2017\Projects\WebPlatform\WebPlatform\bld\Debug\WebPlatform.jsproj.CoreCompileInputs.cache
+C:\Users\Bilal\Documents\Visual Studio 2017\Projects\WebPlatform\WebPlatform\bld\Debug\ResourceHandlingTask.state
+C:\Users\Bilal\Documents\Visual Studio 2017\Projects\WebPlatform\WebPlatform\bld\Debug\priconfig.xml
+C:\Users\Bilal\Documents\Visual Studio 2017\Projects\WebPlatform\WebPlatform\bld\Debug\priconfig.xml.intermediate
+C:\Users\Bilal\Documents\Visual Studio 2017\Projects\WebPlatform\WebPlatform\bld\Debug\layout.resfiles
+C:\Users\Bilal\Documents\Visual Studio 2017\Projects\WebPlatform\WebPlatform\bld\Debug\layout.resfiles.intermediate
+C:\Users\Bilal\Documents\Visual Studio 2017\Projects\WebPlatform\WebPlatform\bld\Debug\resources.resfiles
+C:\Users\Bilal\Documents\Visual Studio 2017\Projects\WebPlatform\WebPlatform\bld\Debug\resources.resfiles.intermediate
+C:\Users\Bilal\Documents\Visual Studio 2017\Projects\WebPlatform\WebPlatform\bld\Debug\pri.resfiles
+C:\Users\Bilal\Documents\Visual Studio 2017\Projects\WebPlatform\WebPlatform\bld\Debug\pri.resfiles.intermediate
+C:\Users\Bilal\Documents\Visual Studio 2017\Projects\WebPlatform\WebPlatform\bld\Debug\qualifiers.txt
+C:\Users\Bilal\Documents\Visual Studio 2017\Projects\WebPlatform\WebPlatform\bld\Debug\qualifiers.txt.intermediate
+C:\Users\Bilal\Documents\Visual Studio 2017\Projects\WebPlatform\WebPlatform\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Bilal\Documents\Visual Studio 2017\Projects\WebPlatform\WebPlatform\bld\Debug\ProjectArchitectures.txt

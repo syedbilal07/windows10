@@ -1,0 +1,31 @@
+﻿<Page
+    x:Class="VisualStateManager.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:VisualStateManager"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <VisualStateManager.VisualStateGroups>
+            <VisualStateGroup>
+                <VisualState>
+                    <VisualState.StateTriggers>
+                        <!-- VisualState to be triggered when window 
+                        width is >=720 effective pixels. -->
+                        <AdaptiveTrigger MinWindowWidth="720" />
+                    </VisualState.StateTriggers>
+                    <VisualState.Setters>
+                        <Setter Target="myPanel.Orientation" Value="Horizontal" />
+                    </VisualState.Setters>
+                </VisualState>
+            </VisualStateGroup>
+        </VisualStateManager.VisualStateGroups>
+        <StackPanel x:Name="myPanel" Orientation="Vertical">
+            <TextBlock Text="Windows 10 Tutorials" Style = "{ThemeResource BodyTextBlockStyle}"/>
+            <TextBlock Text = "Windows 10 Tutorials: Text block 2." Style = "{ThemeResource BodyTextBlockStyle}"/>
+            <TextBlock Text = "Windows 10 Tutorials: Text block 3." Style = "{ThemeResource BodyTextBlockStyle}"/>
+        </StackPanel>
+    </Grid>
+</Page>

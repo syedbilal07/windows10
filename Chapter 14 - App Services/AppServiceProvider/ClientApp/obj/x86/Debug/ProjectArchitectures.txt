@@ -1,0 +1,1 @@
+C:\Users\Bilal\Documents\Visual Studio 2017\Projects\AppServiceProvider\ClientApp\ClientApp.csproj;x86

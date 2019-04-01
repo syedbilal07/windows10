@@ -1,0 +1,35 @@
+﻿<Page
+    x:Class="ConnectedExperience.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:ConnectedExperience"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid x:Name = "MainGrid" Background = "{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height = "80" />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+
+        <StackPanel Orientation = "Horizontal" VerticalAlignment = "Top" Margin = "12,12,0,0">
+            <TextBlock Style = "{StaticResource HeaderTextBlockStyle}"  
+            FontSize = "24" Text = "Connected Experience" />
+        </StackPanel>
+
+        <Grid Grid.Row = "1" Margin = "0,80,0,0">
+            <StackPanel Margin = "62,0,0,0">
+                <TextBlock x:Name = "textBlock" HorizontalAlignment = "Left"   
+               TextWrapping = "Wrap" Text = "Choose Your Background Color:"  
+               VerticalAlignment = "Top"/>
+
+                <RadioButton x:Name = "BrownRadioButton" Content = "Brown"  
+               Checked = "radioButton_Checked" />
+
+                <RadioButton x:Name = "GrayRadioButton" Content = "Gray"  
+               Checked = "radioButton_Checked"/>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Page>

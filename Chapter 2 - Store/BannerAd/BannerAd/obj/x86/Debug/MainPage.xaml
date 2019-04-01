@@ -1,0 +1,22 @@
+﻿<Page
+    x:Class="BannerAd.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:BannerAd"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:UI="using:Microsoft.Advertising.WinRT.UI"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <StackPanel HorizontalAlignment="Center">
+            <UI:AdControl ApplicationId = "d25517cb-12d4-4699-8bdc-52040c712cab"  
+            AdUnitId = "10043121" HorizontalAlignment = "Left" Height = "580"  
+            VerticalAlignment = "Top" Width = "800"/>
+            <Button x:ConnectionId='1' x:Name = "showAd" Content = "Show Ad" HorizontalAlignment = "Left"  
+            Margin = "138,296,0,0" VerticalAlignment = "Top" FontSize = "48" 
+                                  />
+        </StackPanel>
+    </Grid>
+</Page>
+

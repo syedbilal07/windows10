@@ -1,0 +1,2 @@
+C:\Users\Bilal\Documents\Visual Studio 2017\Projects\AppServiceProvider\MyAppService\obj\x86\Debug\MyAppService.csprojResolveAssemblyReference.cache
+C:\Users\Bilal\Documents\Visual Studio 2017\Projects\AppServiceProvider\MyAppService\obj\x86\Debug\MyAppService.csproj.CoreCompileInputs.cache

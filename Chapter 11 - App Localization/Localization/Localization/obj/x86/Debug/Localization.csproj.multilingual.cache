@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<ArrayOfCacheFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CacheFile>
+    <FileName>Strings\en-US\Resources.resw</FileName>
+    <Checksum>789922363205571750679321568522816588</Checksum>
+    <ModifiedTime>2017-08-21T22:47:01.751992</ModifiedTime>
+    <CacheFileType>NeutralResource</CacheFileType>
+    <WarningMessage />
+  </CacheFile>
+  <CacheFile>
+    <FileName>MultilingualResources\Localization.de.xlf</FileName>
+    <Checksum>1132282920415610813187128109912346415087252</Checksum>
+    <ModifiedTime>2017-08-21T22:52:42.9088139+05:00</ModifiedTime>
+    <CacheFileType>XliffResource</CacheFileType>
+    <WarningMessage />
+  </CacheFile>
+  <CacheFile>
+    <FileName>Strings\de\Resources.resw</FileName>
+    <Checksum>19525178173832441949178108532091416317160</Checksum>
+    <ModifiedTime>2017-08-21T22:52:42.9098146+05:00</ModifiedTime>
+    <CacheFileType>LanguageResource</CacheFileType>
+    <WarningMessage />
+  </CacheFile>
+</ArrayOfCacheFile>

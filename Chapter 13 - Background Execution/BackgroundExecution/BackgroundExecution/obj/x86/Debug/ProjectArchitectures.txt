@@ -1,0 +1,2 @@
+H:\Bilal\Aptech\Tutorials Point Practice\Windows 10 Development\Chapter 13 - Background Execution\BackgroundExecution\BackgroundExecution\BackgroundExecution.csproj;x86
+H:\Bilal\Aptech\Tutorials Point Practice\Windows 10 Development\Chapter 13 - Background Execution\BackgroundExecution\BackgroundStuff\BackgroundStuff.csproj;x86

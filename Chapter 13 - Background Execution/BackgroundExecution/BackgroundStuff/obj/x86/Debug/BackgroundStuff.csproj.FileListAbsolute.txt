@@ -1,0 +1,39 @@
+C:\Users\Bilal\Documents\Visual Studio 2017\Projects\BackgroundExecution\BackgroundStuff\obj\x86\Debug\BackgroundStuff.csproj.CoreCompileInputs.cache
+C:\Users\Bilal\Documents\Visual Studio 2017\Projects\BackgroundExecution\BackgroundStuff\bin\x86\Debug\BackgroundStuff.winmd
+C:\Users\Bilal\Documents\Visual Studio 2017\Projects\BackgroundExecution\BackgroundStuff\bin\x86\Debug\BackgroundStuff.pdb
+C:\Users\Bilal\Documents\Visual Studio 2017\Projects\BackgroundExecution\BackgroundStuff\bin\x86\Debug\BackgroundStuff.pri
+C:\Users\Bilal\Documents\Visual Studio 2017\Projects\BackgroundExecution\BackgroundStuff\obj\x86\Debug\BackgroundStuff.winmd
+C:\Users\Bilal\Documents\Visual Studio 2017\Projects\BackgroundExecution\BackgroundStuff\obj\x86\Debug\BackgroundStuff.pdb
+C:\Users\Bilal\Documents\Visual Studio 2017\Projects\BackgroundExecution\BackgroundStuff\obj\x86\Debug\BackgroundStuff.winmdobj
+C:\Users\Bilal\Documents\Visual Studio 2017\Projects\BackgroundExecution\BackgroundStuff\obj\x86\Debug\BackgroundStuff.compile.pdb
+C:\Users\Bilal\Documents\Visual Studio 2017\Projects\BackgroundExecution\BackgroundStuff\obj\x86\Debug\priconfig.xml
+C:\Users\Bilal\Documents\Visual Studio 2017\Projects\BackgroundExecution\BackgroundStuff\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Bilal\Documents\Visual Studio 2017\Projects\BackgroundExecution\BackgroundStuff\obj\x86\Debug\layout.resfiles
+C:\Users\Bilal\Documents\Visual Studio 2017\Projects\BackgroundExecution\BackgroundStuff\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\Bilal\Documents\Visual Studio 2017\Projects\BackgroundExecution\BackgroundStuff\obj\x86\Debug\resources.resfiles
+C:\Users\Bilal\Documents\Visual Studio 2017\Projects\BackgroundExecution\BackgroundStuff\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Bilal\Documents\Visual Studio 2017\Projects\BackgroundExecution\BackgroundStuff\obj\x86\Debug\pri.resfiles
+C:\Users\Bilal\Documents\Visual Studio 2017\Projects\BackgroundExecution\BackgroundStuff\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Bilal\Documents\Visual Studio 2017\Projects\BackgroundExecution\BackgroundStuff\obj\x86\Debug\qualifiers.txt
+C:\Users\Bilal\Documents\Visual Studio 2017\Projects\BackgroundExecution\BackgroundStuff\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Bilal\Documents\Visual Studio 2017\Projects\BackgroundExecution\BackgroundStuff\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+H:\Bilal\Aptech\Tutorials Point Practice\Windows 10 Development\Chapter 13 - Background Execution\BackgroundExecution\BackgroundStuff\bin\x86\Debug\BackgroundStuff.winmd
+H:\Bilal\Aptech\Tutorials Point Practice\Windows 10 Development\Chapter 13 - Background Execution\BackgroundExecution\BackgroundStuff\bin\x86\Debug\BackgroundStuff.pdb
+H:\Bilal\Aptech\Tutorials Point Practice\Windows 10 Development\Chapter 13 - Background Execution\BackgroundExecution\BackgroundStuff\bin\x86\Debug\BackgroundStuff.pri
+H:\Bilal\Aptech\Tutorials Point Practice\Windows 10 Development\Chapter 13 - Background Execution\BackgroundExecution\BackgroundStuff\obj\x86\Debug\BackgroundStuff.csprojResolveAssemblyReference.cache
+H:\Bilal\Aptech\Tutorials Point Practice\Windows 10 Development\Chapter 13 - Background Execution\BackgroundExecution\BackgroundStuff\obj\x86\Debug\BackgroundStuff.csproj.CoreCompileInputs.cache
+H:\Bilal\Aptech\Tutorials Point Practice\Windows 10 Development\Chapter 13 - Background Execution\BackgroundExecution\BackgroundStuff\obj\x86\Debug\BackgroundStuff.winmd
+H:\Bilal\Aptech\Tutorials Point Practice\Windows 10 Development\Chapter 13 - Background Execution\BackgroundExecution\BackgroundStuff\obj\x86\Debug\BackgroundStuff.pdb
+H:\Bilal\Aptech\Tutorials Point Practice\Windows 10 Development\Chapter 13 - Background Execution\BackgroundExecution\BackgroundStuff\obj\x86\Debug\BackgroundStuff.winmdobj
+H:\Bilal\Aptech\Tutorials Point Practice\Windows 10 Development\Chapter 13 - Background Execution\BackgroundExecution\BackgroundStuff\obj\x86\Debug\BackgroundStuff.compile.pdb
+H:\Bilal\Aptech\Tutorials Point Practice\Windows 10 Development\Chapter 13 - Background Execution\BackgroundExecution\BackgroundStuff\obj\x86\Debug\priconfig.xml
+H:\Bilal\Aptech\Tutorials Point Practice\Windows 10 Development\Chapter 13 - Background Execution\BackgroundExecution\BackgroundStuff\obj\x86\Debug\priconfig.xml.intermediate
+H:\Bilal\Aptech\Tutorials Point Practice\Windows 10 Development\Chapter 13 - Background Execution\BackgroundExecution\BackgroundStuff\obj\x86\Debug\layout.resfiles
+H:\Bilal\Aptech\Tutorials Point Practice\Windows 10 Development\Chapter 13 - Background Execution\BackgroundExecution\BackgroundStuff\obj\x86\Debug\layout.resfiles.intermediate
+H:\Bilal\Aptech\Tutorials Point Practice\Windows 10 Development\Chapter 13 - Background Execution\BackgroundExecution\BackgroundStuff\obj\x86\Debug\resources.resfiles
+H:\Bilal\Aptech\Tutorials Point Practice\Windows 10 Development\Chapter 13 - Background Execution\BackgroundExecution\BackgroundStuff\obj\x86\Debug\resources.resfiles.intermediate
+H:\Bilal\Aptech\Tutorials Point Practice\Windows 10 Development\Chapter 13 - Background Execution\BackgroundExecution\BackgroundStuff\obj\x86\Debug\pri.resfiles
+H:\Bilal\Aptech\Tutorials Point Practice\Windows 10 Development\Chapter 13 - Background Execution\BackgroundExecution\BackgroundStuff\obj\x86\Debug\pri.resfiles.intermediate
+H:\Bilal\Aptech\Tutorials Point Practice\Windows 10 Development\Chapter 13 - Background Execution\BackgroundExecution\BackgroundStuff\obj\x86\Debug\qualifiers.txt
+H:\Bilal\Aptech\Tutorials Point Practice\Windows 10 Development\Chapter 13 - Background Execution\BackgroundExecution\BackgroundStuff\obj\x86\Debug\qualifiers.txt.intermediate
+H:\Bilal\Aptech\Tutorials Point Practice\Windows 10 Development\Chapter 13 - Background Execution\BackgroundExecution\BackgroundStuff\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt

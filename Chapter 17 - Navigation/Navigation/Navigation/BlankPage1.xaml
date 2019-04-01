@@ -1,0 +1,14 @@
+﻿<Page
+    x:Class="Navigation.BlankPage1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Navigation"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Hub Header = "Hi, This Is Page 1"/>
+        <Button Content = "Go to Main Page" Margin = "64,94,0,514" Click = "Button_Click"/>
+    </Grid>
+</Page>

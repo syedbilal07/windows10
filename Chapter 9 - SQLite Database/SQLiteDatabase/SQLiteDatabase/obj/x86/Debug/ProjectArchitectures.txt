@@ -1,0 +1,1 @@
+C:\Users\Bilal\documents\visual studio 2017\Projects\SQLiteDatabase\SQLiteDatabase\SQLiteDatabase.csproj;x86

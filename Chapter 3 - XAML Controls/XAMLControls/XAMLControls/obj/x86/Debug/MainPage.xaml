@@ -1,0 +1,60 @@
+﻿<Page
+    x:Class="XAMLControls.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:XAMLControls"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <StackPanel Margin="20">
+            <StackPanel Orientation="Horizontal">
+                <ToggleButton x:ConnectionId='5' x:Name="HamburgerButton" FontFamily="Segoe MDL2 Assets" Content=""                                                                         HorizontalAlignment="Center" />
+                <AppBarButton Icon="Like" />
+                <AppBarButton Icon="Dislike" />
+                <AppBarSeparator />
+                <AppBarButton Icon="Accept" />
+                <AppBarButton Icon="Add" />
+            </StackPanel>
+            <SplitView x:ConnectionId='1' x:Name="splitView" DisplayMode="Inline" OpenPaneLength="296">
+                <SplitView.Pane>
+                    <StackPanel>
+                        <TextBlock Text="Split View Pane" FontSize="36" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="20" />
+                        <Button Content="Options" Margin="10">
+                            <Button.Flyout>
+                                <MenuFlyout>
+                                    <MenuFlyoutItem Text="Reset" />
+                                    <MenuFlyoutSeparator />
+                                    <MenuFlyoutItem Text="Repeat" />
+                                    <MenuFlyoutItem Text="Shuffle" />
+                                </MenuFlyout>
+                            </Button.Flyout>
+                        </Button>
+                    </StackPanel>
+                </SplitView.Pane>
+                <StackPanel>
+                    <TextBlock Text="Split View Content" FontSize="36" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="10"/>
+                    <Border BorderThickness="3" BorderBrush="Red" Margin="5">
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="Hyperlink Example" Margin="10" />
+                            <HyperlinkButton Content="Microsoft" NavigateUri="www.microsoft.com" />
+                        </StackPanel>
+                    </Border>
+                    <RelativePanel BorderBrush="Red" BorderThickness="2" CornerRadius="10" Padding="12" Margin="5">
+                        <TextBlock x:ConnectionId='2' x:Name="txt" Text="Relative Panel Example" RelativePanel.AlignLeftWithPanel="True" Margin="5,0,0,0"/>
+                        <TextBox x:ConnectionId='3' x:Name="textBox1" RelativePanel.RightOf="btn" Margin="5,0,0,0"/>
+                        <Button x:ConnectionId='4' x:Name="btn" Content="Name" RelativePanel.RightOf="txt" Margin="5,0,0,0" />
+                    </RelativePanel>
+                    <FlipView Height="400" Margin="10" Width="400">
+                        <Image Source = "Assets/1.jpg"/>
+                        <Image Source="Assets/2.png"/>
+                        <Image Source="Assets/3.png"/>
+                        <Image Source="Assets/4.png"/>
+                    </FlipView>
+                </StackPanel>
+            </SplitView>
+        </StackPanel>
+    </Grid>
+</Page>
+

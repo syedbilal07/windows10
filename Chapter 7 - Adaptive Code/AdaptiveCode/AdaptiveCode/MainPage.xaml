@@ -1,0 +1,42 @@
+﻿<Page
+    x:Class="AdaptiveCode.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:AdaptiveCode"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+    <Page.Background>
+        <SolidColorBrush Color="Green" />
+    </Page.Background>
+
+    <Page.BottomAppBar>
+        <CommandBar x:Name="commandBar">
+            <AppBarButton Icon="Accept" Label="appbarbutton" />
+            <AppBarButton Icon="Cancel" Label="appbarbutton" />
+        </CommandBar>
+    </Page.BottomAppBar>
+    <Grid Background="AliceBlue">
+        <VisualStateManager.VisualStateGroups>
+            <VisualStateGroup>
+                <VisualState>
+                    <VisualState.StateTriggers>
+                        <local:DeviceFamilyTrigger DeviceFamily = "Desktop" />
+                    </VisualState.StateTriggers>
+                    <VisualState.Setters>
+                        <Setter Target="StatusBarControls.Visibility" Value="Collapsed" />
+                    </VisualState.Setters>
+                </VisualState>
+            </VisualStateGroup>
+        </VisualStateManager.VisualStateGroups>
+        <StackPanel HorizontalAlignment="Left" Margin="75,164,0,0" VerticalAlignment="Top">
+            <RadioButton x:Name="ShowAppBarRadioButton" Content="Show AppBar" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" IsChecked="True" Checked="ShowAppBarRadioButton_Checked" />
+            <RadioButton x:Name="ShowOpaqueAppBarRadioButton" Content="Show Transparent AppBar" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Checked="ShowOpaqueAppBarRadioButton_Checked" />
+            <RadioButton x:Name="HideAppBarRadioButton" Content="Hide AppBar" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Checked="HideAppBarRadioButton_Checked" />
+        </StackPanel>
+        <StackPanel x:Name="StatusBarControls" Orientation="Vertical" Margin="75,350,0,0" Visibility="Visible">
+            <CheckBox x:Name="StatusBarBackgroundCheckBox" Content="Set StatusBar Background" Checked="StatusBarBackgroundCheckBox_Checked" Unchecked="StatusBarBackgroundCheckBox_Unchecked" />
+            <CheckBox x:Name="StatusBarHiddenCheckBox" Content="Set StatusBar Hidden" Checked="StatusBarHiddenCheckBox_Checked" Unchecked="StatusBarHiddenCheckBox_Unchecked" />
+        </StackPanel>
+    </Grid>
+</Page>
